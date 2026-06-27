@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Herzschlag im Takt
+
+This log tracks the cryptographic history and versioning for the song **Herzschlag im Takt** (herzschlag-im-takt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:32:23.053165 | `v1` | `4c2ee55a3d4879291653b897e443c486d062dda6a569c6a02c0e4eaeb0e29432` | `626c7ef7677e11b07258e5e63839370f08a68921d00f69d7f0100c9c7e1c543d` | `2026-06-28_herzschlag-im-takt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

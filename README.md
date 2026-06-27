@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzschlag-im-takt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Herzschlag im Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzschlag-im-takt/) |
+| **Get License** | [Commercial Licensing for Herzschlag im Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzschlag-im-takt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c2ee55a3d4879291653b897e443c486d062dda6a569c6a02c0e4eaeb0e29432` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
