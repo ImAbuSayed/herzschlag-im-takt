@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/herzschlag-im-takt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Herzschlag im Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzschlag-im-takt/) |
+| **Get License** | [Get a Licensing Quote for Herzschlag im Takt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/herzschlag-im-takt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Spürst du den Bass, Babe? Herzschlag im Takt
+> Die ganze Stadt schläft, doch wir bleiben wach
+> Dein Blick trifft mich tief, es ist Gänsehaut pur
+> Wir fahren durch die Nacht auf der Überholspur
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
